@@ -1,4 +1,8 @@
-### Hi there 👋
+- 👋 Hi, I'm Toby Chiu!
+- 🌱 I'm an MS Applied Data Science student at the University of Chicago.
+- 👯 I’m looking to collaborate on new ideas in data science, particularly in sports analytics, political science, or social impact!
+- 💬 I love chatting about everything - any sports (Lakers fans 👀), social advocacy, bars & cafes, video/board games, cool movies, or anything else! 
+- 📫 Feel free to reach out on [Linkedin](https://www.linkedin.com/in/toby-chiu-255586195/) or through email at tobytcc@gmail.com.
 
 <!--
 **tobytcc/tobytcc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
