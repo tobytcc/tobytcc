@@ -1,7 +1,8 @@
 - 👋 Hi, I'm Toby Chiu!
-- 🌱 I'm an MS Applied Data Science student at the University of Chicago.
-- 👯 I’m looking to collaborate on new ideas in sports analytics, political science, or social impact!
-- 💬 Ask me about: any sports (Lakers fans 👀), social advocacy, bars & cafe hopping, or anything else! 
+- 🎮 I currently work on experimentation/causal inference within gaming!
+- 🌱 I graduated from the MS Applied Data Science program at the University of Chicago.
+- 👯 I’m looking to collaborate on new ideas in sports/esports analytics, political science, or social impact!
+- 💬 Ask me about: video games, any sports/esports (Lakers fans 👀), social advocacy, bars & cafe hopping, or anything else! 
 - 📫 Feel free to reach out on [Linkedin](https://www.linkedin.com/in/toby-chiu-255586195/) or through email at tobytcc@gmail.com.
 
 <!--
