@@ -1,5 +1,5 @@
 - 👋 Hi, I'm Toby Chiu!
-- 🎮 I currently work on experimentation/causal inference within gaming!
+- 🎮 I currently work on experimentation/product DS within gaming!
 - 🌱 I graduated from the MS Applied Data Science program at the University of Chicago.
 - 👯 I’m looking to collaborate on new ideas in sports/esports analytics, political science, or social impact!
 - 💬 Ask me about: video games, any sports/esports (Lakers fans 👀), social advocacy, bars & cafe hopping, or anything else! 
